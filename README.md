@@ -8,5 +8,5 @@
 - Request URL  - /api/search?q=Mumbai&limit=2&offset=1 
 
 ### Case1 Output
-! ![Screenshot (284)](https://user-images.githubusercontent.com/86424600/221593874-1869a393-24da-4e74-984a-2c1ec46c1b7f.png)
+ ![Screenshot (284)](https://user-images.githubusercontent.com/86424600/221593874-1869a393-24da-4e74-984a-2c1ec46c1b7f.png)
 
