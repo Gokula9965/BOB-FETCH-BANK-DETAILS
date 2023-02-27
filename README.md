@@ -17,5 +17,6 @@
 
 ## Output of Case 2
 ![image](https://user-images.githubusercontent.com/86424600/221596016-4732a048-90d7-4c46-b4c2-100336467059.png)
+
 ![image](https://user-images.githubusercontent.com/86424600/221596237-2bef3c25-ed2a-437d-9f43-5d2ab8c81a54.png)
 
