@@ -8,7 +8,8 @@
 - Request URL  - /api/search?q=Mumbai&limit=2&offset=1 
 
 ## Output of Case 1
-![image](https://user-images.githubusercontent.com/86424600/221765471-3203ea9a-e334-4cdb-8e25-ee8a8686cb05.png)
+![image](https://user-images.githubusercontent.com/86424600/221775722-0b99a6a7-af4d-46a1-bde2-e93c04c30356.png)
+
 
 
 
@@ -18,7 +19,11 @@
 
 ## Output of Case 2
 
-![image](https://user-images.githubusercontent.com/86424600/221766015-1715a9f0-5b9e-4a80-8ab5-73796386b235.png)
-![image](https://user-images.githubusercontent.com/86424600/221766350-aa1dbac3-c022-465c-8a4b-723d2fc017ff.png)
+## Part1
+![image](https://user-images.githubusercontent.com/86424600/221775870-7afc48b1-40c3-4242-bbc5-74a4abfff913.png)
+
+## Part2
+![image](https://user-images.githubusercontent.com/86424600/221776050-d1fa84ac-2ac1-4586-b40d-e149a9313478.png)
+
 
 
