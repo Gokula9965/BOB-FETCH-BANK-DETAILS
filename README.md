@@ -8,7 +8,8 @@
 - Request URL  - /api/search?q=Mumbai&limit=2&offset=1 
 
 ## Output of Case 1
- ![image](https://user-images.githubusercontent.com/86424600/221595872-287e8463-3061-4741-8418-99d94417aaa7.png)
+![image](https://user-images.githubusercontent.com/86424600/221765471-3203ea9a-e334-4cdb-8e25-ee8a8686cb05.png)
+
 
 
 ## Case 2
@@ -16,7 +17,8 @@
 - Request URL  - /api/branch?q=LONI&limit=1&offset=1 
 
 ## Output of Case 2
-![image](https://user-images.githubusercontent.com/86424600/221596016-4732a048-90d7-4c46-b4c2-100336467059.png)
 
-![image](https://user-images.githubusercontent.com/86424600/221596237-2bef3c25-ed2a-437d-9f43-5d2ab8c81a54.png)
+![image](https://user-images.githubusercontent.com/86424600/221766015-1715a9f0-5b9e-4a80-8ab5-73796386b235.png)
+![image](https://user-images.githubusercontent.com/86424600/221766350-aa1dbac3-c022-465c-8a4b-723d2fc017ff.png)
+
 
